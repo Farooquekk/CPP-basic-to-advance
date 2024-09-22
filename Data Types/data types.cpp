@@ -1,4 +1,5 @@
-#include <iostream.h>
+#include <iostream>
+using namespace std;
 
 int main() {
     int integerVar = 42;              // Integer
